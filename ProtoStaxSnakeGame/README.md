@@ -37,10 +37,11 @@ This demo uses
 * Piezo buzzers PS1240 x 2
 * Jumper wires
 
-![ProtoStax_Arduino_Game_Boy_bb](ProtoStax_Arduino_Game_Boy_bb.png)
+![ProtoStax_Arduino_Game_Boy_bb](../ProtoStax_Arduino_Game_Boy_bb.png)
 
-For further instructions, see the [Make Your Own Arduino Game Boy
-](https://www.hackster.io/sridhar-rajagopal/make-your-own-arduino-game-boy-7a6019) Tutorial at [Hackster.io](https://www.hackster.io/sridhar-rajagopal/make-your-own-arduino-game-boy-7a6019)
+For further instructions, see the [Portable Arduino Game Console - Part 2 - Snake Game](https://www.hackster.io/sridhar-rajagopal/portable-arduino-game-console-part-2-snake-game-ab5137)
+Tutorial at
+[Hackster.io](https://www.hackster.io/sridhar-rajagopal/portable-arduino-game-console-part-2-snake-game-ab5137)
 
 ## Installing
 
